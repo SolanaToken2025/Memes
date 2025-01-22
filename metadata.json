@@ -1,0 +1,8 @@
+{
+  "name": "MEME MEME",
+  "symbol": "MEME1",
+  "description": "Your token description",
+  "image": "https://yourcdn.com/token-image.png",
+  "external_url": "https://yourwebsite.com",
+  "attributes": []
+}
