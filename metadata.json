@@ -1,8 +1,8 @@
 {
-  "name": "MEME MEME",
-  "symbol": "MEME1",
-  "description": "Your token description",
-  "image": "https://yourcdn.com/token-image.png",
-  "external_url": "https://yourwebsite.com",
+  "name": "MEME",
+  "symbol": "MEME",
+  "description": "Testing Memes",
+  "image": "https://github.com/SolanaToken2025/Memes/blob/main/logo.png",
+  "external_url": "https://github.com/SolanaToken2025/Memes",
   "attributes": []
 }
