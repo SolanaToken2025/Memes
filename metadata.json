@@ -2,7 +2,7 @@
   "name": "MEME",
   "symbol": "MEME",
   "description": "Testing Memes",
-  "image": "https://github.com/SolanaToken2025/Memes/blob/main/logo.png",
+  "image": "https://raw.githubusercontent.com/SolanaToken2025/Memes/refs/heads/main/logo.png",
   "external_url": "https://github.com/SolanaToken2025/Memes",
   "attributes": []
 }
